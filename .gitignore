@@ -1,0 +1,61 @@
+# Compiled class files
+*.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Java package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven folder
+target/
+
+# Gradle folder
+build/
+
+# IntelliJ Idea related
+.idea/
+*.iml
+*.iws
+
+# Eclipse related
+.classpath
+.project
+.settings/
+
+# NetBeans related
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# VS Code directories
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other files and directories
+bin/
+*.bak
+*.swp
+*~
+*.tmp
+*.temp
